@@ -1,0 +1,9 @@
+#Password Protect file
+AuthUserFile /home/transmithub/.htpasswd
+AuthName "Prompt"
+AuthType Basic
+Require valid-user
+
+
+
+
